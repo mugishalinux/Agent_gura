@@ -1,0 +1,91 @@
+.banner-top{
+   background-color:#ea580c; 
+   width: 100%;
+   padding:60px;
+}
+.index-logo-login-button{
+    display:flex;
+    width:80%;
+    margin: 0 auto;
+}
+.index-logo-login-button{
+    width:85%;
+    margin: 0 auto;
+    margin-top:30px;
+}
+.index-logo-login-button .logo{
+    width:85%;
+    margin:0;
+}
+.index-logo-login-button .logo img{
+    width:250px;
+    margin:0;
+}
+.index-logo-login-button .btn{
+    width:25%;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:0;
+}
+.index-logo-login-button .btn button{
+    display:flex;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:25px;
+    padding-right:25px;
+    justify-content:center;
+    align-items:center;
+    border-radius:5px;
+    color:#06357f;
+    border:solid 2px #06357f;
+    cursor: pointer;
+    font-size:20px;
+    background-color:white;
+}
+.index-logo-login-button .btn button:hover{
+    display:flex;
+    padding-top:7px;
+    padding-bottom:7px;
+    padding-left:25px;
+    padding-right:25px;
+    justify-content:center;
+    align-items:center;
+    border-radius:5px;
+    color:white;
+    background-color: #06357f;
+    cursor: pointer;
+}
+.title-balanse{
+    text-align: center;
+    color:#06357f;
+    font-size:20px;
+    font-weight:900;
+}
+.content{
+    width:85%;
+    margin:0 auto;
+    margin-top:25px;
+}
+.content h4{
+    color:#06357f;
+    font-weight:900;
+    margin-top:10px;
+    margin-bottom:15px;
+}
+.content p{
+    font-weight:bold;
+  color: black;
+}
+.footer-index{
+    width:100%;
+    margin-bottom:0px;
+    margin-top:10px;
+    padding:15px;
+    background-color:rgb(73, 63, 63);
+}
+.footer-index p{ 
+    text-align:center;
+    font-weight:bold;
+    color: white;
+}
